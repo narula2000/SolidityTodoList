@@ -1,0 +1,34 @@
+{
+  "name": "SolidityTodoList",
+  "version": "1.0.0",
+  "description": "This is a project was done from a [blog](https://www.dappuniversity.com/articles/blockchain-app-tutorial \"Blog\") walk through. This was done to familiarize myself with solidity and smart contract.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-sever",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narula2000/SolidityTodoList.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/narula2000/SolidityTodoList/issues"
+  },
+  "homepage": "https://github.com/narula2000/SolidityTodoList#readme",
+  "devDependencies": {
+    "bootstrap": "4.1.3",
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^2.0.2",
+    "lite-server": "^2.3.0",
+    "nodemon": "^1.17.3",
+    "truffle": "5.0.2",
+    "truffle-contract": "3.0.6"
+  }
+}
